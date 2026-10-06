@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-D3jfb0Ew.js";import{t}from"./build-CFE5vkf9.js";import{t as n}from"./index-L2h6Vzyf.js";var r=e();function i(){let{agentId:e}=n.useParams();return(0,r.jsx)(t,{agentId:e})}export{i as component};

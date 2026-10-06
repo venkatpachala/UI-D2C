@@ -1,0 +1,1 @@
+import{i as e}from"./pages-DiJn_oi1.js";var t=e;export{t as component};

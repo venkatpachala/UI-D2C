@@ -1,0 +1,722 @@
+[
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "15e887fa2e3923e7ccda44ee6bcdf91cd6898f64",
+    "size": 66,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.dockerignore?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/.dockerignore",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/15e887fa2e3923e7ccda44ee6bcdf91cd6898f64",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.dockerignore?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/15e887fa2e3923e7ccda44ee6bcdf91cd6898f64",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/.dockerignore"
+    }
+  },
+  {
+    "name": ".env.example",
+    "path": ".env.example",
+    "sha": "85d105d1c3f50914a3bf2c0b87cb8af5ac63168f",
+    "size": 64,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.env.example?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/.env.example",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/85d105d1c3f50914a3bf2c0b87cb8af5ac63168f",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/.env.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.env.example?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/85d105d1c3f50914a3bf2c0b87cb8af5ac63168f",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/.env.example"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "f7fdecce51c5bc4eab797d1fdd9ff538df7ca348",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.github?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/.github",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f7fdecce51c5bc4eab797d1fdd9ff538df7ca348",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f7fdecce51c5bc4eab797d1fdd9ff538df7ca348",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "9562d3ee39e8a693370499a4bb134cc33ddee6cb",
+    "size": 113,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9562d3ee39e8a693370499a4bb134cc33ddee6cb",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9562d3ee39e8a693370499a4bb134cc33ddee6cb",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".python-version",
+    "path": ".python-version",
+    "sha": "e4fba2183587225f216eeada4c78dfab6b2e65f5",
+    "size": 5,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.python-version?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/.python-version",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e4fba2183587225f216eeada4c78dfab6b2e65f5",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/.python-version",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/.python-version?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e4fba2183587225f216eeada4c78dfab6b2e65f5",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/.python-version"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "bfcccd7bd298a637954e66373b0fc7ff4afabbb2",
+    "size": 579,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/Dockerfile?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/Dockerfile",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/bfcccd7bd298a637954e66373b0fc7ff4afabbb2",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/Dockerfile?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/bfcccd7bd298a637954e66373b0fc7ff4afabbb2",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/Dockerfile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "ac098d72c8bfe6671ffccf130fe7e9e3fb7d3ef5",
+    "size": 13261,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/README.md?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ac098d72c8bfe6671ffccf130fe7e9e3fb7d3ef5",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ac098d72c8bfe6671ffccf130fe7e9e3fb7d3ef5",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/README.md"
+    }
+  },
+  {
+    "name": "SHIP.md",
+    "path": "SHIP.md",
+    "sha": "f7db6736f451f093e6d9b18dee5f817027ddd75d",
+    "size": 3638,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/SHIP.md?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/SHIP.md",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f7db6736f451f093e6d9b18dee5f817027ddd75d",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/SHIP.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/SHIP.md?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f7db6736f451f093e6d9b18dee5f817027ddd75d",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/SHIP.md"
+    }
+  },
+  {
+    "name": "agents",
+    "path": "agents",
+    "sha": "08a27ad24b7cf9f79fa1410a96f37db65953b93f",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/agents?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/agents",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/08a27ad24b7cf9f79fa1410a96f37db65953b93f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/agents?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/08a27ad24b7cf9f79fa1410a96f37db65953b93f",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/agents"
+    }
+  },
+  {
+    "name": "attachments",
+    "path": "attachments",
+    "sha": "fc298252fbab4dfc6435558ea3f2229d0890f6ba",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/attachments?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/attachments",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/fc298252fbab4dfc6435558ea3f2229d0890f6ba",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/attachments?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/fc298252fbab4dfc6435558ea3f2229d0890f6ba",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/attachments"
+    }
+  },
+  {
+    "name": "common",
+    "path": "common",
+    "sha": "1a83ab84b6fec0d8953cfc1c8a02ffaca498939a",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/common?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/common",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/1a83ab84b6fec0d8953cfc1c8a02ffaca498939a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/common?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/1a83ab84b6fec0d8953cfc1c8a02ffaca498939a",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/common"
+    }
+  },
+  {
+    "name": "config",
+    "path": "config",
+    "sha": "140300d4f48bf00e98fada3e198a70533b341c36",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/config?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/config",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/140300d4f48bf00e98fada3e198a70533b341c36",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/config?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/140300d4f48bf00e98fada3e198a70533b341c36",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/config"
+    }
+  },
+  {
+    "name": "controlplane",
+    "path": "controlplane",
+    "sha": "f180662a2755cb6cbb59bace67d0a3fed8a0825b",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/controlplane?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/controlplane",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f180662a2755cb6cbb59bace67d0a3fed8a0825b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/controlplane?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f180662a2755cb6cbb59bace67d0a3fed8a0825b",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/controlplane"
+    }
+  },
+  {
+    "name": "data",
+    "path": "data",
+    "sha": "a4cfb84d74a4800845063cf4aa7c5b30749c8d06",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/data?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/data",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a4cfb84d74a4800845063cf4aa7c5b30749c8d06",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/data?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a4cfb84d74a4800845063cf4aa7c5b30749c8d06",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/data"
+    }
+  },
+  {
+    "name": "db",
+    "path": "db",
+    "sha": "c2ff46dec6990e90fc1846a33ea056d68ea193f8",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/db?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/db",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/c2ff46dec6990e90fc1846a33ea056d68ea193f8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/db?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/c2ff46dec6990e90fc1846a33ea056d68ea193f8",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/db"
+    }
+  },
+  {
+    "name": "deployments",
+    "path": "deployments",
+    "sha": "425d58b41a5fcf7206e6716a90bd71f41005b225",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/deployments?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/deployments",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/425d58b41a5fcf7206e6716a90bd71f41005b225",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/deployments?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/425d58b41a5fcf7206e6716a90bd71f41005b225",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/deployments"
+    }
+  },
+  {
+    "name": "docker-compose.yml",
+    "path": "docker-compose.yml",
+    "sha": "d475fd59e49c0c73219c3532c58f766f0a21d744",
+    "size": 858,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/docker-compose.yml?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/docker-compose.yml",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d475fd59e49c0c73219c3532c58f766f0a21d744",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/docker-compose.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/docker-compose.yml?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d475fd59e49c0c73219c3532c58f766f0a21d744",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/docker-compose.yml"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "a48cc5217921a4b041ff2598f1564d486fea677b",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/docs?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/docs",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a48cc5217921a4b041ff2598f1564d486fea677b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a48cc5217921a4b041ff2598f1564d486fea677b",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/docs"
+    }
+  },
+  {
+    "name": "evaluation",
+    "path": "evaluation",
+    "sha": "a3fcb99500e5a07de09bb471fcff2bf03815073c",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/evaluation?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/evaluation",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a3fcb99500e5a07de09bb471fcff2bf03815073c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/evaluation?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a3fcb99500e5a07de09bb471fcff2bf03815073c",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/evaluation"
+    }
+  },
+  {
+    "name": "fly.toml",
+    "path": "fly.toml",
+    "sha": "92f06f525692315f337476526026d908ff16952a",
+    "size": 476,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/fly.toml?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/fly.toml",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/92f06f525692315f337476526026d908ff16952a",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/fly.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/fly.toml?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/92f06f525692315f337476526026d908ff16952a",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/fly.toml"
+    }
+  },
+  {
+    "name": "frontend",
+    "path": "frontend",
+    "sha": "db230adc66408f07114caf3d7910b2bfb5df5645",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/frontend?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/frontend",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/db230adc66408f07114caf3d7910b2bfb5df5645",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/frontend?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/db230adc66408f07114caf3d7910b2bfb5df5645",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/frontend"
+    }
+  },
+  {
+    "name": "gateway",
+    "path": "gateway",
+    "sha": "f60f285bf72a8002d2083b1299a79a3c2ed59985",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/gateway?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/gateway",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f60f285bf72a8002d2083b1299a79a3c2ed59985",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/gateway?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f60f285bf72a8002d2083b1299a79a3c2ed59985",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/gateway"
+    }
+  },
+  {
+    "name": "identity",
+    "path": "identity",
+    "sha": "4c9a4bd26dca2728cccc2b2dc9dda91a0500d946",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/identity?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/identity",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/4c9a4bd26dca2728cccc2b2dc9dda91a0500d946",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/identity?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/4c9a4bd26dca2728cccc2b2dc9dda91a0500d946",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/identity"
+    }
+  },
+  {
+    "name": "interactions",
+    "path": "interactions",
+    "sha": "376641461c701bdbcd910a0e4af0838df4904b60",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/interactions?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/interactions",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/376641461c701bdbcd910a0e4af0838df4904b60",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/interactions?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/376641461c701bdbcd910a0e4af0838df4904b60",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/interactions"
+    }
+  },
+  {
+    "name": "llm",
+    "path": "llm",
+    "sha": "b2eb2cb20387aebf033d683370af8aff2d0904d7",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/llm?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/llm",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/b2eb2cb20387aebf033d683370af8aff2d0904d7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/llm?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/b2eb2cb20387aebf033d683370af8aff2d0904d7",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/llm"
+    }
+  },
+  {
+    "name": "main.py",
+    "path": "main.py",
+    "sha": "3f937068aeb5c9b4780537a4d6d47beb3968c47d",
+    "size": 81,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/main.py?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/main.py",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3f937068aeb5c9b4780537a4d6d47beb3968c47d",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/main.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/main.py?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3f937068aeb5c9b4780537a4d6d47beb3968c47d",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/main.py"
+    }
+  },
+  {
+    "name": "memory",
+    "path": "memory",
+    "sha": "be97fe1a66451a4d0426c3932aa73a89931a6af4",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/memory?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/memory",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/be97fe1a66451a4d0426c3932aa73a89931a6af4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/memory?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/be97fe1a66451a4d0426c3932aa73a89931a6af4",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/memory"
+    }
+  },
+  {
+    "name": "observability",
+    "path": "observability",
+    "sha": "91ce3a16e0de96a80408a489a9b58c0e2db7c6ea",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/observability?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/observability",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/91ce3a16e0de96a80408a489a9b58c0e2db7c6ea",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/observability?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/91ce3a16e0de96a80408a489a9b58c0e2db7c6ea",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/observability"
+    }
+  },
+  {
+    "name": "ops",
+    "path": "ops",
+    "sha": "8017cd75d74d4fee35b455c8047fb1ac42b74ee6",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/ops?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/ops",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/8017cd75d74d4fee35b455c8047fb1ac42b74ee6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/ops?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/8017cd75d74d4fee35b455c8047fb1ac42b74ee6",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/ops"
+    }
+  },
+  {
+    "name": "orchestration",
+    "path": "orchestration",
+    "sha": "a591bd1596f11d922e7f68b3ca0fd30cc272b443",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/orchestration?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/orchestration",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a591bd1596f11d922e7f68b3ca0fd30cc272b443",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/orchestration?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a591bd1596f11d922e7f68b3ca0fd30cc272b443",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/orchestration"
+    }
+  },
+  {
+    "name": "policy",
+    "path": "policy",
+    "sha": "82f1c5d03eef528ac9b13da8ccedaca1c5836af8",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/policy?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/policy",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/82f1c5d03eef528ac9b13da8ccedaca1c5836af8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/policy?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/82f1c5d03eef528ac9b13da8ccedaca1c5836af8",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/policy"
+    }
+  },
+  {
+    "name": "prometheus.yml",
+    "path": "prometheus.yml",
+    "sha": "3b3e26d4edaaae63fda55a3242a5c29f3ef32a31",
+    "size": 223,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/prometheus.yml?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/prometheus.yml",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3b3e26d4edaaae63fda55a3242a5c29f3ef32a31",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/prometheus.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/prometheus.yml?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3b3e26d4edaaae63fda55a3242a5c29f3ef32a31",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/prometheus.yml"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "pyproject.toml",
+    "sha": "4b3ae5459f1b2c92441cc69787f8379ee55c7d4e",
+    "size": 940,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/pyproject.toml?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/pyproject.toml",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4b3ae5459f1b2c92441cc69787f8379ee55c7d4e",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/pyproject.toml?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4b3ae5459f1b2c92441cc69787f8379ee55c7d4e",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/pyproject.toml"
+    }
+  },
+  {
+    "name": "rag",
+    "path": "rag",
+    "sha": "48f8a149411a6a29a0fc8855cf16f4b33ddfe413",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/rag?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/rag",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/48f8a149411a6a29a0fc8855cf16f4b33ddfe413",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/rag?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/48f8a149411a6a29a0fc8855cf16f4b33ddfe413",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/rag"
+    }
+  },
+  {
+    "name": "render.yaml",
+    "path": "render.yaml",
+    "sha": "829abbd766ce926be7463a2d4846b6c2b6629a65",
+    "size": 526,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/render.yaml?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/render.yaml",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/829abbd766ce926be7463a2d4846b6c2b6629a65",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/render.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/render.yaml?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/829abbd766ce926be7463a2d4846b6c2b6629a65",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/render.yaml"
+    }
+  },
+  {
+    "name": "requirements.txt",
+    "path": "requirements.txt",
+    "sha": "5793f77907de0d16e998a4e11d904b614de38d53",
+    "size": 348,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/requirements.txt?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/requirements.txt",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5793f77907de0d16e998a4e11d904b614de38d53",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/requirements.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/requirements.txt?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5793f77907de0d16e998a4e11d904b614de38d53",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/requirements.txt"
+    }
+  },
+  {
+    "name": "runtime",
+    "path": "runtime",
+    "sha": "e4fa73a9ee4ac2ced9c4d36957de25f534d6e1d2",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/runtime?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/runtime",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/e4fa73a9ee4ac2ced9c4d36957de25f534d6e1d2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/runtime?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/e4fa73a9ee4ac2ced9c4d36957de25f534d6e1d2",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/runtime"
+    }
+  },
+  {
+    "name": "security",
+    "path": "security",
+    "sha": "9d6f84db046494a283bdae197aa2cafe03b23d43",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/security?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/security",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/9d6f84db046494a283bdae197aa2cafe03b23d43",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/security?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/9d6f84db046494a283bdae197aa2cafe03b23d43",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/security"
+    }
+  },
+  {
+    "name": "tenants",
+    "path": "tenants",
+    "sha": "6c4612443c4a2821998ad666e7607bbf7ca9ac0b",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/tenants?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/tenants",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/6c4612443c4a2821998ad666e7607bbf7ca9ac0b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/tenants?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/6c4612443c4a2821998ad666e7607bbf7ca9ac0b",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/tenants"
+    }
+  },
+  {
+    "name": "test_retrieval.py",
+    "path": "test_retrieval.py",
+    "sha": "409629397cb45adf842155681be6b96731cdbfa2",
+    "size": 827,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/test_retrieval.py?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/test_retrieval.py",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/409629397cb45adf842155681be6b96731cdbfa2",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/test_retrieval.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/test_retrieval.py?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/409629397cb45adf842155681be6b96731cdbfa2",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/test_retrieval.py"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "d496ab9832ff599de37f802ec794b2ea8380bd48",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/tests?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/tests",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/d496ab9832ff599de37f802ec794b2ea8380bd48",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/tests?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/d496ab9832ff599de37f802ec794b2ea8380bd48",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/tests"
+    }
+  },
+  {
+    "name": "tools",
+    "path": "tools",
+    "sha": "53620c7ff94edefac0600b8761960587d33d8a73",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/tools?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/tools",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/53620c7ff94edefac0600b8761960587d33d8a73",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/tools?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/53620c7ff94edefac0600b8761960587d33d8a73",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/tools"
+    }
+  },
+  {
+    "name": "uv.lock",
+    "path": "uv.lock",
+    "sha": "fd0ab81f88c814a670f617bfc3ab34d669eaebe7",
+    "size": 804695,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/uv.lock?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/uv.lock",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/fd0ab81f88c814a670f617bfc3ab34d669eaebe7",
+    "download_url": "https://raw.githubusercontent.com/venkatpachala/AI-Customer-Support-/main/uv.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/uv.lock?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/fd0ab81f88c814a670f617bfc3ab34d669eaebe7",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/blob/main/uv.lock"
+    }
+  },
+  {
+    "name": "voice",
+    "path": "voice",
+    "sha": "e7cec78be0a41c8ba2b44a378081420aaf02adce",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/voice?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/voice",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/e7cec78be0a41c8ba2b44a378081420aaf02adce",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/voice?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/e7cec78be0a41c8ba2b44a378081420aaf02adce",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/voice"
+    }
+  },
+  {
+    "name": "workflows",
+    "path": "workflows",
+    "sha": "d3218d2ee356df77c3db927c19fe563676eb6775",
+    "size": 0,
+    "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/workflows?ref=main",
+    "html_url": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/workflows",
+    "git_url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/d3218d2ee356df77c3db927c19fe563676eb6775",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/contents/workflows?ref=main",
+      "git": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/d3218d2ee356df77c3db927c19fe563676eb6775",
+      "html": "https://github.com/venkatpachala/AI-Customer-Support-/tree/main/workflows"
+    }
+  }
+]

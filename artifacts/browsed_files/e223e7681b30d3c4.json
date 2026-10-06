@@ -1,0 +1,3002 @@
+{
+  "sha": "e01cf103465ae5339211938ca5986cb1d41caefc",
+  "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/e01cf103465ae5339211938ca5986cb1d41caefc",
+  "tree": [
+    {
+      "path": ".dockerignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15e887fa2e3923e7ccda44ee6bcdf91cd6898f64",
+      "size": 66,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/15e887fa2e3923e7ccda44ee6bcdf91cd6898f64"
+    },
+    {
+      "path": ".env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85d105d1c3f50914a3bf2c0b87cb8af5ac63168f",
+      "size": 64,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/85d105d1c3f50914a3bf2c0b87cb8af5ac63168f"
+    },
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f7fdecce51c5bc4eab797d1fdd9ff538df7ca348",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f7fdecce51c5bc4eab797d1fdd9ff538df7ca348"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0dbf7df14df57a8a278bfdfd2799878157ee73cc",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/0dbf7df14df57a8a278bfdfd2799878157ee73cc"
+    },
+    {
+      "path": ".github/workflows/gate.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2643cd204271cae9e75f51d1624eb740051d76e0",
+      "size": 1765,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2643cd204271cae9e75f51d1624eb740051d76e0"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9562d3ee39e8a693370499a4bb134cc33ddee6cb",
+      "size": 113,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9562d3ee39e8a693370499a4bb134cc33ddee6cb"
+    },
+    {
+      "path": ".python-version",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4fba2183587225f216eeada4c78dfab6b2e65f5",
+      "size": 5,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e4fba2183587225f216eeada4c78dfab6b2e65f5"
+    },
+    {
+      "path": "Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bfcccd7bd298a637954e66373b0fc7ff4afabbb2",
+      "size": 579,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/bfcccd7bd298a637954e66373b0fc7ff4afabbb2"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac098d72c8bfe6671ffccf130fe7e9e3fb7d3ef5",
+      "size": 13261,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ac098d72c8bfe6671ffccf130fe7e9e3fb7d3ef5"
+    },
+    {
+      "path": "SHIP.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7db6736f451f093e6d9b18dee5f817027ddd75d",
+      "size": 3638,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f7db6736f451f093e6d9b18dee5f817027ddd75d"
+    },
+    {
+      "path": "agents",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08a27ad24b7cf9f79fa1410a96f37db65953b93f",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/08a27ad24b7cf9f79fa1410a96f37db65953b93f"
+    },
+    {
+      "path": "agents/qa.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a0b37d92a3b945e05637663d5df191fcd9d900e",
+      "size": 14441,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3a0b37d92a3b945e05637663d5df191fcd9d900e"
+    },
+    {
+      "path": "attachments",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fc298252fbab4dfc6435558ea3f2229d0890f6ba",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/fc298252fbab4dfc6435558ea3f2229d0890f6ba"
+    },
+    {
+      "path": "attachments/Zepto Terms of Use.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ece17376dfd66340e5ad9738fb58a2188af27401",
+      "size": 426637,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ece17376dfd66340e5ad9738fb58a2188af27401"
+    },
+    {
+      "path": "common",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1a83ab84b6fec0d8953cfc1c8a02ffaca498939a",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/1a83ab84b6fec0d8953cfc1c8a02ffaca498939a"
+    },
+    {
+      "path": "common/llm.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca0978c0bddb20154736e5ebc1a1e69bd6aa15a5",
+      "size": 1676,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ca0978c0bddb20154736e5ebc1a1e69bd6aa15a5"
+    },
+    {
+      "path": "common/messages.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8492c83927d64423740f904335aef964d1eb3284",
+      "size": 456,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8492c83927d64423740f904335aef964d1eb3284"
+    },
+    {
+      "path": "config",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "140300d4f48bf00e98fada3e198a70533b341c36",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/140300d4f48bf00e98fada3e198a70533b341c36"
+    },
+    {
+      "path": "config/loaders.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c1646be3b1546c6469492f6e24a4cf7ed2727c7",
+      "size": 1245,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/0c1646be3b1546c6469492f6e24a4cf7ed2727c7"
+    },
+    {
+      "path": "config/schema.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e04764680db15d238d512add620117d724ee418",
+      "size": 1046,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/0e04764680db15d238d512add620117d724ee418"
+    },
+    {
+      "path": "config/tenant_contract.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c0c980274c6524a13a420b90754f1cae925bec7",
+      "size": 4259,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4c0c980274c6524a13a420b90754f1cae925bec7"
+    },
+    {
+      "path": "config/tenants",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1f8b0b197ca6061a17f3157c5a10724580c0abff",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/1f8b0b197ca6061a17f3157c5a10724580c0abff"
+    },
+    {
+      "path": "config/tenants/zepto",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0000c29925f2f217cf095fada8c7744d9bf30495",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/0000c29925f2f217cf095fada8c7744d9bf30495"
+    },
+    {
+      "path": "config/tenants/zepto/config.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a05a8a7a2a6e852d569c6a817393f0e0e439cad3",
+      "size": 533,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a05a8a7a2a6e852d569c6a817393f0e0e439cad3"
+    },
+    {
+      "path": "controlplane",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f180662a2755cb6cbb59bace67d0a3fed8a0825b",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f180662a2755cb6cbb59bace67d0a3fed8a0825b"
+    },
+    {
+      "path": "controlplane/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43564b306106d1a32b9ac41c6dc746865ed036c2",
+      "size": 64,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/43564b306106d1a32b9ac41c6dc746865ed036c2"
+    },
+    {
+      "path": "controlplane/connections.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a29bddc3a5ea4364ef0ca9b576685bd440a0aff9",
+      "size": 3533,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a29bddc3a5ea4364ef0ca9b576685bd440a0aff9"
+    },
+    {
+      "path": "controlplane/http.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a919c600cc6624fe7cd670fe1d1c3918d49fa727",
+      "size": 951,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a919c600cc6624fe7cd670fe1d1c3918d49fa727"
+    },
+    {
+      "path": "controlplane/keys.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb5a14e53a7c1d6501d98081b05393012c619dc2",
+      "size": 6514,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/fb5a14e53a7c1d6501d98081b05393012c619dc2"
+    },
+    {
+      "path": "controlplane/knowledge.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d6f65cc92c9d08786e9ee66a6b0ca637bddc764",
+      "size": 6204,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4d6f65cc92c9d08786e9ee66a6b0ca637bddc764"
+    },
+    {
+      "path": "controlplane/mode.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4fe6617138786b54366bb4a4d088e9d4d6f170d0",
+      "size": 552,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4fe6617138786b54366bb4a4d088e9d4d6f170d0"
+    },
+    {
+      "path": "controlplane/reply.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "680b6b0789491257886ee3b1e6c073651f05bc95",
+      "size": 776,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/680b6b0789491257886ee3b1e6c073651f05bc95"
+    },
+    {
+      "path": "controlplane/sandbox.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bdc039321161195d1ec9c9164fad2c628d7cb8b",
+      "size": 3979,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7bdc039321161195d1ec9c9164fad2c628d7cb8b"
+    },
+    {
+      "path": "controlplane/seed.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9efd2f4338161b4cfd73e50181dce2d5f26d6590",
+      "size": 1322,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9efd2f4338161b4cfd73e50181dce2d5f26d6590"
+    },
+    {
+      "path": "controlplane/turns.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e336559c6c76f5e0b6248f673e42a078e3b3f790",
+      "size": 6186,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e336559c6c76f5e0b6248f673e42a078e3b3f790"
+    },
+    {
+      "path": "controlplane/webhooks.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "814bcc7aaa2c9d73b4aebac90ec7a4dad65d4626",
+      "size": 4184,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/814bcc7aaa2c9d73b4aebac90ec7a4dad65d4626"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a4cfb84d74a4800845063cf4aa7c5b30749c8d06",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a4cfb84d74a4800845063cf4aa7c5b30749c8d06"
+    },
+    {
+      "path": "data/d2c_agent.db",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "031ecfbf1a616fbfd56fd76ddd5568058bc35c1f",
+      "size": 753664,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/031ecfbf1a616fbfd56fd76ddd5568058bc35c1f"
+    },
+    {
+      "path": "db",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c2ff46dec6990e90fc1846a33ea056d68ea193f8",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/c2ff46dec6990e90fc1846a33ea056d68ea193f8"
+    },
+    {
+      "path": "db/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d33762397a4f94423680605c296eb8bffa4f39c4",
+      "size": 12,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d33762397a4f94423680605c296eb8bffa4f39c4"
+    },
+    {
+      "path": "db/migrate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9a9fa7c7c3028f6576865dc1c286de4e0364207",
+      "size": 4041,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a9a9fa7c7c3028f6576865dc1c286de4e0364207"
+    },
+    {
+      "path": "db/migrations",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4fd59d1cffaa024b06fb262363084cf40cca22ab",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/4fd59d1cffaa024b06fb262363084cf40cca22ab"
+    },
+    {
+      "path": "db/migrations/001_pilot.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f56cb4d23fa3bd8950eda24973b9cbe8f83110e6",
+      "size": 576,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f56cb4d23fa3bd8950eda24973b9cbe8f83110e6"
+    },
+    {
+      "path": "db/models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6bf431d55c7669bc69f7952394ac5970bd5cbe7",
+      "size": 21593,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b6bf431d55c7669bc69f7952394ac5970bd5cbe7"
+    },
+    {
+      "path": "db/session.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61d5418668c42fa9b2e188725663919723d3fdeb",
+      "size": 1606,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/61d5418668c42fa9b2e188725663919723d3fdeb"
+    },
+    {
+      "path": "deployments",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "425d58b41a5fcf7206e6716a90bd71f41005b225",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/425d58b41a5fcf7206e6716a90bd71f41005b225"
+    },
+    {
+      "path": "deployments/env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30071b8b755797e196bf6c48b30fe0f3393f6dbc",
+      "size": 616,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/30071b8b755797e196bf6c48b30fe0f3393f6dbc"
+    },
+    {
+      "path": "deployments/fly.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "013ab7025b0ae2798fb639555de4e6b1fda60688",
+      "size": 525,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/013ab7025b0ae2798fb639555de4e6b1fda60688"
+    },
+    {
+      "path": "deployments/render.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7171d528c569980298b9ccd5a96a31e57bfef75",
+      "size": 711,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d7171d528c569980298b9ccd5a96a31e57bfef75"
+    },
+    {
+      "path": "docker-compose.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d475fd59e49c0c73219c3532c58f766f0a21d744",
+      "size": 858,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d475fd59e49c0c73219c3532c58f766f0a21d744"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a48cc5217921a4b041ff2598f1564d486fea677b",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a48cc5217921a4b041ff2598f1564d486fea677b"
+    },
+    {
+      "path": "docs/pilot-runbook.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "771025220827ba2e7c242021ddc03f54aae8a941",
+      "size": 1864,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/771025220827ba2e7c242021ddc03f54aae8a941"
+    },
+    {
+      "path": "evaluation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a3fcb99500e5a07de09bb471fcff2bf03815073c",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a3fcb99500e5a07de09bb471fcff2bf03815073c"
+    },
+    {
+      "path": "evaluation/autoqa.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "745839f7b146b3efa07895185178eefe48c19b0b",
+      "size": 4099,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/745839f7b146b3efa07895185178eefe48c19b0b"
+    },
+    {
+      "path": "evaluation/golden_set.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a37e687c64a10a0086914aedbb10fcf59d2fa846",
+      "size": 3161,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a37e687c64a10a0086914aedbb10fcf59d2fa846"
+    },
+    {
+      "path": "evaluation/golden_set_multiturn.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e46e528f1d81af879335e62fd553bbf029f8b19",
+      "size": 2460,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2e46e528f1d81af879335e62fd553bbf029f8b19"
+    },
+    {
+      "path": "evaluation/graders",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "67f7002c3c941276ee5aef72d9a2dce1f6a9f639",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/67f7002c3c941276ee5aef72d9a2dce1f6a9f639"
+    },
+    {
+      "path": "evaluation/graders/policy_grader.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9acecc773c9685da724d915916ac858456abc339",
+      "size": 676,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9acecc773c9685da724d915916ac858456abc339"
+    },
+    {
+      "path": "evaluation/graders/safety_grader.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c339a03d1f0a40af0fceefa16637937c049647be",
+      "size": 1265,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c339a03d1f0a40af0fceefa16637937c049647be"
+    },
+    {
+      "path": "evaluation/graders/workflow_grader.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1533d399cc9078902a3bcfe5e8f8b62691afa003",
+      "size": 1663,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/1533d399cc9078902a3bcfe5e8f8b62691afa003"
+    },
+    {
+      "path": "evaluation/rag",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b94ec0353cafc09e004e040a7875c54601e25e1d",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/b94ec0353cafc09e004e040a7875c54601e25e1d"
+    },
+    {
+      "path": "evaluation/rag/dataset.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f373eb52c78eb86335e2ae035b6802b3b4cf84c9",
+      "size": 24088,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f373eb52c78eb86335e2ae035b6802b3b4cf84c9"
+    },
+    {
+      "path": "evaluation/rag/metrics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5eaff356835d0b81f6375fdb5c5b8e21a2b1b176",
+      "size": 4812,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5eaff356835d0b81f6375fdb5c5b8e21a2b1b176"
+    },
+    {
+      "path": "evaluation/rag/run_generation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c720711a381255f92e95412e58661d39f8bee135",
+      "size": 7358,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c720711a381255f92e95412e58661d39f8bee135"
+    },
+    {
+      "path": "evaluation/rag/run_retrieval.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "109fa6ad95893b41054e568344750e61d3e38a55",
+      "size": 6893,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/109fa6ad95893b41054e568344750e61d3e38a55"
+    },
+    {
+      "path": "evaluation/rag/validate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59a99234cbcaaeb1923f56d35262761fdb890cad",
+      "size": 4166,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/59a99234cbcaaeb1923f56d35262761fdb890cad"
+    },
+    {
+      "path": "evaluation/ragas",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "403bf1b30d905f57d6a0d21d8007e2b02b4e089e",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/403bf1b30d905f57d6a0d21d8007e2b02b4e089e"
+    },
+    {
+      "path": "evaluation/ragas/dataset.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "141abac3a64f57e5849051726d3f57ad4802da47",
+      "size": 12261,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/141abac3a64f57e5849051726d3f57ad4802da47"
+    },
+    {
+      "path": "evaluation/ragas/report.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "evaluation/ragas/run_ragas.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a55c8a5ee299755dd557a2e0cd6184a89531e6f",
+      "size": 5303,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4a55c8a5ee299755dd557a2e0cd6184a89531e6f"
+    },
+    {
+      "path": "evaluation/ragas/run_retrieval_eval.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b09bbe5e7e8eccc9d09223e000070ec6e92060f",
+      "size": 7014,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8b09bbe5e7e8eccc9d09223e000070ec6e92060f"
+    },
+    {
+      "path": "evaluation/release_gate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb336faf2391c123b11d16a31a2a5018e44292c8",
+      "size": 5280,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/fb336faf2391c123b11d16a31a2a5018e44292c8"
+    },
+    {
+      "path": "evaluation/reports",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f22d95826a97cd2adb95fa5ff2bcc2939b50913d",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f22d95826a97cd2adb95fa5ff2bcc2939b50913d"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260720_023403.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6dde763677cf28c285bdcafe1849068b183727fa",
+      "size": 6058,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/6dde763677cf28c285bdcafe1849068b183727fa"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260720_120453.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c0c9e16d1fcb5b22e037f7a7dc813acd4e7cdf2",
+      "size": 6058,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8c0c9e16d1fcb5b22e037f7a7dc813acd4e7cdf2"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260720_130141.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "715ad547ceae77b52bc5d5e25c77482b1e321e56",
+      "size": 5923,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/715ad547ceae77b52bc5d5e25c77482b1e321e56"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260720_133738.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcf74ec203c8af8479681d17ada26a3af68b22b1",
+      "size": 5923,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/dcf74ec203c8af8479681d17ada26a3af68b22b1"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260720_134518.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0dba4c54197a1d6fc7ce791a7adc4715213e5373",
+      "size": 6277,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/0dba4c54197a1d6fc7ce791a7adc4715213e5373"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260807_152228.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5afc6b24b8324e582e9149c63ba34cf339461628",
+      "size": 6058,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5afc6b24b8324e582e9149c63ba34cf339461628"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260810_143955.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6c21a10408455cc9cf0a84bb08b58736fb6356a",
+      "size": 6275,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c6c21a10408455cc9cf0a84bb08b58736fb6356a"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260810_175530.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2ae9834a3f97ed1e997cf458e994fb09940c772",
+      "size": 6447,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f2ae9834a3f97ed1e997cf458e994fb09940c772"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260818_013427.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7dedeea2fab1eec9aab97b650a59ddc2233cee32",
+      "size": 6474,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7dedeea2fab1eec9aab97b650a59ddc2233cee32"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260818_014110.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3870b6ef4dc3aa6b00594985325a13b5f2f74c1e",
+      "size": 6423,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3870b6ef4dc3aa6b00594985325a13b5f2f74c1e"
+    },
+    {
+      "path": "evaluation/reports/eval_report_20260818_015139.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71f9a56422ccdaf21f696fa032b5e36a4012d02a",
+      "size": 6423,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/71f9a56422ccdaf21f696fa032b5e36a4012d02a"
+    },
+    {
+      "path": "evaluation/reports/multiturn_eval_report_20260720_154135.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df24b93d6cbd068dd5bd78ae237928595fbabc1a",
+      "size": 6403,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/df24b93d6cbd068dd5bd78ae237928595fbabc1a"
+    },
+    {
+      "path": "evaluation/reports/multiturn_eval_report_20260807_152742.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d18b6dd87c269eee4b9e8f46cfeb8482fc22731",
+      "size": 6237,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5d18b6dd87c269eee4b9e8f46cfeb8482fc22731"
+    },
+    {
+      "path": "evaluation/reports/multiturn_eval_report_20260810_144213.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f5e6c002332872570f33984e9ee65bf457c9d93",
+      "size": 6263,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2f5e6c002332872570f33984e9ee65bf457c9d93"
+    },
+    {
+      "path": "evaluation/reports/multiturn_eval_report_20260810_175719.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f36e62e013d2177624636438112397d66d3f2b55",
+      "size": 6348,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f36e62e013d2177624636438112397d66d3f2b55"
+    },
+    {
+      "path": "evaluation/reports/multiturn_eval_report_20260818_013508.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57ac43466f7333db28ffd416c171811bf90bb2a2",
+      "size": 6384,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/57ac43466f7333db28ffd416c171811bf90bb2a2"
+    },
+    {
+      "path": "evaluation/reports/multiturn_eval_report_20260818_014634.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36100dbe8f83e2b541bbc66ee6be7a5f7e45ccef",
+      "size": 6306,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/36100dbe8f83e2b541bbc66ee6be7a5f7e45ccef"
+    },
+    {
+      "path": "evaluation/reports/multiturn_eval_report_20260818_015101.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16b2a1e3233143927fb40fe89518d1ae59c1a200",
+      "size": 6265,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/16b2a1e3233143927fb40fe89518d1ae59c1a200"
+    },
+    {
+      "path": "evaluation/reports/ragas_report_20260811_005315.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9911c00a37b1451ca948700a14530ee2eed6d0c6",
+      "size": 89651,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9911c00a37b1451ca948700a14530ee2eed6d0c6"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_144057.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e22ec3946e70d3ad82bcf385fcdbac8f64687cde",
+      "size": 78807,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e22ec3946e70d3ad82bcf385fcdbac8f64687cde"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_144837.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aafe1fd62aa13eab3cce0fc329c4374066a189f1",
+      "size": 99370,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/aafe1fd62aa13eab3cce0fc329c4374066a189f1"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_145806.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "970e3fb57efdabb56de1b440b9d27520da3f15e0",
+      "size": 99804,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/970e3fb57efdabb56de1b440b9d27520da3f15e0"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_160535.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7947d8225511e5dbcf43c1d645a3a84e07e2063",
+      "size": 98998,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f7947d8225511e5dbcf43c1d645a3a84e07e2063"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_162424.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56632940eaa489df6d4c5cceea6664157a628738",
+      "size": 112982,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/56632940eaa489df6d4c5cceea6664157a628738"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_165347.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20c166abc8637f979b3d0daaff6897eb74595728",
+      "size": 112841,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/20c166abc8637f979b3d0daaff6897eb74595728"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_185112.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "383bded3dff81c867aae7c8cf98050e01783461f",
+      "size": 111229,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/383bded3dff81c867aae7c8cf98050e01783461f"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_185842.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fbe7e01810e7c38a27b08dde7bcba431448f15bb",
+      "size": 111941,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/fbe7e01810e7c38a27b08dde7bcba431448f15bb"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_191420.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed531fb17c883f67ed0ccf570727a22c4d7d6847",
+      "size": 112232,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ed531fb17c883f67ed0ccf570727a22c4d7d6847"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_191840.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "288f494ac3bbc253cd5784794bb3dc5f3f32aefb",
+      "size": 112872,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/288f494ac3bbc253cd5784794bb3dc5f3f32aefb"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_192139.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "494c425473029b2706d809595422b5aa2c8c420f",
+      "size": 112871,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/494c425473029b2706d809595422b5aa2c8c420f"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_192201.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddb654096f73ae64729f9a492bdc63f75ebecc07",
+      "size": 112360,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ddb654096f73ae64729f9a492bdc63f75ebecc07"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_192208.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45dbb9430323ff3938ab6474b846a1a76eeed4e2",
+      "size": 111663,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/45dbb9430323ff3938ab6474b846a1a76eeed4e2"
+    },
+    {
+      "path": "evaluation/reports/retrieval_eval_20260811_193050.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "114337049ba95a6ac0ec59273ee43d64204033a8",
+      "size": 111963,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/114337049ba95a6ac0ec59273ee43d64204033a8"
+    },
+    {
+      "path": "evaluation/run_evals.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e49c1ad7d4ed97fa350a38f4de03aa3e1daed62",
+      "size": 3933,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4e49c1ad7d4ed97fa350a38f4de03aa3e1daed62"
+    },
+    {
+      "path": "evaluation/run_multi_eval.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d65f15174edd749c67891b737304a681e231aa0",
+      "size": 5049,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/1d65f15174edd749c67891b737304a681e231aa0"
+    },
+    {
+      "path": "evaluation/scenarios",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3e792977595a09679b0cb3232724cb1dbe3162b9",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/3e792977595a09679b0cb3232724cb1dbe3162b9"
+    },
+    {
+      "path": "evaluation/scenarios/p0_platform.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b42c9118cfde64c3c87e903b25e82ffcfab7cd32",
+      "size": 2190,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b42c9118cfde64c3c87e903b25e82ffcfab7cd32"
+    },
+    {
+      "path": "evaluation/simulators",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "77ac4999e5b0578c7361b4aa7f9f4079085841ed",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/77ac4999e5b0578c7361b4aa7f9f4079085841ed"
+    },
+    {
+      "path": "evaluation/simulators/workflow_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61c8d0706aec0eaa268c66443357d4873ba2c0cc",
+      "size": 12807,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/61c8d0706aec0eaa268c66443357d4873ba2c0cc"
+    },
+    {
+      "path": "fly.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92f06f525692315f337476526026d908ff16952a",
+      "size": 476,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/92f06f525692315f337476526026d908ff16952a"
+    },
+    {
+      "path": "frontend",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "db230adc66408f07114caf3d7910b2bfb5df5645",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/db230adc66408f07114caf3d7910b2bfb5df5645"
+    },
+    {
+      "path": "frontend/voice.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3158bcab4fb2604a56ad65234b840b91ed2800a6",
+      "size": 16976,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3158bcab4fb2604a56ad65234b840b91ed2800a6"
+    },
+    {
+      "path": "gateway",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f60f285bf72a8002d2083b1299a79a3c2ed59985",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f60f285bf72a8002d2083b1299a79a3c2ed59985"
+    },
+    {
+      "path": "gateway/limits.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5d15f8579d2cb25833fec17cc90fefe1950b227",
+      "size": 907,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c5d15f8579d2cb25833fec17cc90fefe1950b227"
+    },
+    {
+      "path": "gateway/main.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e94c054b1162f5b329e8053b7d31d3e6f4a7eefe",
+      "size": 38273,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e94c054b1162f5b329e8053b7d31d3e6f4a7eefe"
+    },
+    {
+      "path": "gateway/routers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6cf6b288f57e6943a89f79cc34b10ebc3a3b97ff",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/6cf6b288f57e6943a89f79cc34b10ebc3a3b97ff"
+    },
+    {
+      "path": "gateway/routers/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aec4179e829b321762a0f110febecef00f24d3ad",
+      "size": 51,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/aec4179e829b321762a0f110febecef00f24d3ad"
+    },
+    {
+      "path": "gateway/routers/approvals.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98c14bbf8f8f9815a46aab7bf99c5606d23995bb",
+      "size": 3993,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/98c14bbf8f8f9815a46aab7bf99c5606d23995bb"
+    },
+    {
+      "path": "gateway/routers/cases.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "474e1a95d7b4f486c480f1cf47dc3c36141367a2",
+      "size": 2622,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/474e1a95d7b4f486c480f1cf47dc3c36141367a2"
+    },
+    {
+      "path": "gateway/routers/console.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8aca100b65197406c52fdf5c830ae4456d649fd1",
+      "size": 18939,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8aca100b65197406c52fdf5c830ae4456d649fd1"
+    },
+    {
+      "path": "gateway/routers/control.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09f4dc7cc63f2701f9fc0b5fabe31e63c684dd2c",
+      "size": 6738,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/09f4dc7cc63f2701f9fc0b5fabe31e63c684dd2c"
+    },
+    {
+      "path": "gateway/routers/copilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ef0e48e7ffad482453795d63c23029df752f7f8",
+      "size": 2805,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/6ef0e48e7ffad482453795d63c23029df752f7f8"
+    },
+    {
+      "path": "gateway/routers/intelligence.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "752d951cc66e40de63f2dd5bfb35c4f0cf42a415",
+      "size": 2699,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/752d951cc66e40de63f2dd5bfb35c4f0cf42a415"
+    },
+    {
+      "path": "gateway/routers/ops.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ca2150fbea2914e7d87538632a3c63990f3bdb9",
+      "size": 1149,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/0ca2150fbea2914e7d87538632a3c63990f3bdb9"
+    },
+    {
+      "path": "gateway/routers/sessions.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2da0917d86d2fb853fc6e0f7dcd52d08cc29d4c",
+      "size": 1293,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c2da0917d86d2fb853fc6e0f7dcd52d08cc29d4c"
+    },
+    {
+      "path": "gateway/routers/widget.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "746e31c2ea84018f7091f0fdc567571c00c928a4",
+      "size": 733,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/746e31c2ea84018f7091f0fdc567571c00c928a4"
+    },
+    {
+      "path": "gateway/routers/workflows.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98671b069e7d3bda3ba3d486b54250e62f2b0ecc",
+      "size": 2001,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/98671b069e7d3bda3ba3d486b54250e62f2b0ecc"
+    },
+    {
+      "path": "gateway/static",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a771fa1a80ff749776f49667e559cde9caf119ce",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a771fa1a80ff749776f49667e559cde9caf119ce"
+    },
+    {
+      "path": "gateway/static/site.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c2f7e385c30d1d93484b6ea5e6ee77c9662acd7",
+      "size": 6509,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/0c2f7e385c30d1d93484b6ea5e6ee77c9662acd7"
+    },
+    {
+      "path": "gateway/static/widget.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16ba507928e785b065ccac8774b03311688865bc",
+      "size": 852,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/16ba507928e785b065ccac8774b03311688865bc"
+    },
+    {
+      "path": "gateway/templates",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "979c17aabce794cddc45f286478d08f34e4b6597",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/979c17aabce794cddc45f286478d08f34e4b6597"
+    },
+    {
+      "path": "gateway/templates/app_base.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2b4faa1cc0e04fb54178a5fb3e754074dc148c3",
+      "size": 795,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f2b4faa1cc0e04fb54178a5fb3e754074dc148c3"
+    },
+    {
+      "path": "gateway/templates/approvals.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de854d675c60cac8305bd8b86da99f97abd18134",
+      "size": 1165,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/de854d675c60cac8305bd8b86da99f97abd18134"
+    },
+    {
+      "path": "gateway/templates/base.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "affbb0a5e82022213305ebe8230e0ee32be51f47",
+      "size": 960,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/affbb0a5e82022213305ebe8230e0ee32be51f47"
+    },
+    {
+      "path": "gateway/templates/case.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94a5628cc60d5922afb2a90c1d13e75acae0d76d",
+      "size": 2167,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/94a5628cc60d5922afb2a90c1d13e75acae0d76d"
+    },
+    {
+      "path": "gateway/templates/connections.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ee5ca2dcbd509dc47db30baf7001dc46f84eb3a",
+      "size": 1254,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7ee5ca2dcbd509dc47db30baf7001dc46f84eb3a"
+    },
+    {
+      "path": "gateway/templates/docs.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a91315e975684c069f8695c538de1a73e86e27f6",
+      "size": 2381,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a91315e975684c069f8695c538de1a73e86e27f6"
+    },
+    {
+      "path": "gateway/templates/home.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "501b68d97c285a4260e8312d261e02e15839217e",
+      "size": 2234,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/501b68d97c285a4260e8312d261e02e15839217e"
+    },
+    {
+      "path": "gateway/templates/inbox.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b965a6890fa26e9602027b1fadd71381f7b0d377",
+      "size": 1154,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b965a6890fa26e9602027b1fadd71381f7b0d377"
+    },
+    {
+      "path": "gateway/templates/install.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dee57616d97f1988fcfb51de21ca561604f1dbd3",
+      "size": 2424,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/dee57616d97f1988fcfb51de21ca561604f1dbd3"
+    },
+    {
+      "path": "gateway/templates/knowledge.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "259014275afbf163b16331bd41550854b83e0f5f",
+      "size": 1252,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/259014275afbf163b16331bd41550854b83e0f5f"
+    },
+    {
+      "path": "gateway/templates/login.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91035d87cc0e4b70a9a4b43260516fb9e312f870",
+      "size": 676,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/91035d87cc0e4b70a9a4b43260516fb9e312f870"
+    },
+    {
+      "path": "gateway/templates/sandbox.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07b0d1b7f91d00d20a627abe46d709291e88b28f",
+      "size": 5178,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/07b0d1b7f91d00d20a627abe46d709291e88b28f"
+    },
+    {
+      "path": "gateway/templates/signup.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0f7a91c83867cb6362ae9a2a3cf64b6b0007ca5",
+      "size": 725,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b0f7a91c83867cb6362ae9a2a3cf64b6b0007ca5"
+    },
+    {
+      "path": "gateway/templates/widget.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4edd1d5cd5aaab76226ae725b6602c6c6bafe04",
+      "size": 3355,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b4edd1d5cd5aaab76226ae725b6602c6c6bafe04"
+    },
+    {
+      "path": "identity",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4c9a4bd26dca2728cccc2b2dc9dda91a0500d946",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/4c9a4bd26dca2728cccc2b2dc9dda91a0500d946"
+    },
+    {
+      "path": "identity/accounts.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ea27e0132d582705dcc509380b3a1c85d8b4673",
+      "size": 3122,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/1ea27e0132d582705dcc509380b3a1c85d8b4673"
+    },
+    {
+      "path": "identity/gate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bbd26f217c18a6fbcfc5e2b0b67d30dc3b3d1db",
+      "size": 6888,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4bbd26f217c18a6fbcfc5e2b0b67d30dc3b3d1db"
+    },
+    {
+      "path": "identity/models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a8abcb3d14d1f8b2badf70e52df94f9799132fe",
+      "size": 1006,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2a8abcb3d14d1f8b2badf70e52df94f9799132fe"
+    },
+    {
+      "path": "identity/ops_session.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97f53265bebde933f71c817624cf08fb64ed58d6",
+      "size": 1959,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/97f53265bebde933f71c817624cf08fb64ed58d6"
+    },
+    {
+      "path": "identity/owner_session.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "043a9d4f6102336cf12bfbffa69590440c69b617",
+      "size": 2096,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/043a9d4f6102336cf12bfbffa69590440c69b617"
+    },
+    {
+      "path": "identity/ownership.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f95ad9fa9d6fbd48a33e0c075cffefc9d37e89bb",
+      "size": 7373,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f95ad9fa9d6fbd48a33e0c075cffefc9d37e89bb"
+    },
+    {
+      "path": "identity/policy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc8179fc34e56d0514a841d6d9ae47b087696855",
+      "size": 1213,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/fc8179fc34e56d0514a841d6d9ae47b087696855"
+    },
+    {
+      "path": "identity/service.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a45d7eaf3ad33029fc3da91c551f1cae47410354",
+      "size": 6123,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a45d7eaf3ad33029fc3da91c551f1cae47410354"
+    },
+    {
+      "path": "identity/session.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9de0f8560e7395317a25ac965cc32755444a8dd1",
+      "size": 1427,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9de0f8560e7395317a25ac965cc32755444a8dd1"
+    },
+    {
+      "path": "interactions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "376641461c701bdbcd910a0e4af0838df4904b60",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/376641461c701bdbcd910a0e4af0838df4904b60"
+    },
+    {
+      "path": "interactions/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ba2a22300baa2b1f88861e48d99870290a3a3847",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/ba2a22300baa2b1f88861e48d99870290a3a3847"
+    },
+    {
+      "path": "interactions/data/interactions.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11b0afd71097ce74062ef9f2accd026c50a5daa9",
+      "size": 100748,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/11b0afd71097ce74062ef9f2accd026c50a5daa9"
+    },
+    {
+      "path": "interactions/db_store.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2559d7d55717411d7cbf7bfbd515cae2bf597b81",
+      "size": 5119,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2559d7d55717411d7cbf7bfbd515cae2bf597b81"
+    },
+    {
+      "path": "interactions/intelligence.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "456bf8e8a924dacd403061b12fc9232c11c9ab2d",
+      "size": 14849,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/456bf8e8a924dacd403061b12fc9232c11c9ab2d"
+    },
+    {
+      "path": "interactions/models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d12672bc3de05c14d5bcf1f0a0d5054e40d26cab",
+      "size": 1299,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d12672bc3de05c14d5bcf1f0a0d5054e40d26cab"
+    },
+    {
+      "path": "interactions/outcomes.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8c365fee2af2ace7bde4dbc4fd9da3e3ace7cbc",
+      "size": 3396,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d8c365fee2af2ace7bde4dbc4fd9da3e3ace7cbc"
+    },
+    {
+      "path": "interactions/retention.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7c265eb6cc5e8ab7e9051d1d76761c75bb75d97",
+      "size": 736,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b7c265eb6cc5e8ab7e9051d1d76761c75bb75d97"
+    },
+    {
+      "path": "interactions/service.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "062bf5f264a29c61d8ca142214c1bb797a84c78f",
+      "size": 9880,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/062bf5f264a29c61d8ca142214c1bb797a84c78f"
+    },
+    {
+      "path": "interactions/store.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "533df8388b4bb243b7be90080bca6cf7ccf98728",
+      "size": 1310,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/533df8388b4bb243b7be90080bca6cf7ccf98728"
+    },
+    {
+      "path": "llm",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b2eb2cb20387aebf033d683370af8aff2d0904d7",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/b2eb2cb20387aebf033d683370af8aff2d0904d7"
+    },
+    {
+      "path": "llm/gateway.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e7b8e211e25c7f55bbbfa2321611523a908a89d",
+      "size": 947,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8e7b8e211e25c7f55bbbfa2321611523a908a89d"
+    },
+    {
+      "path": "main.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f937068aeb5c9b4780537a4d6d47beb3968c47d",
+      "size": 81,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3f937068aeb5c9b4780537a4d6d47beb3968c47d"
+    },
+    {
+      "path": "memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "be97fe1a66451a4d0426c3932aa73a89931a6af4",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/be97fe1a66451a4d0426c3932aa73a89931a6af4"
+    },
+    {
+      "path": "memory/customer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "297fa87baf5b54ba7973e90e9e41e5b217e8a7a4",
+      "size": 650,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/297fa87baf5b54ba7973e90e9e41e5b217e8a7a4"
+    },
+    {
+      "path": "memory/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3eb678e5dc35c6e7b4d2cd765ffc56194ed63265",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/3eb678e5dc35c6e7b4d2cd765ffc56194ed63265"
+    },
+    {
+      "path": "memory/data/cases.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e6b4d58fc833704a37afc341fdf3a72abe1162b",
+      "size": 167112,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/1e6b4d58fc833704a37afc341fdf3a72abe1162b"
+    },
+    {
+      "path": "memory/data/sessions.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1198d240f91629e9d6b40250d98c9d61a325321",
+      "size": 185557,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b1198d240f91629e9d6b40250d98c9d61a325321"
+    },
+    {
+      "path": "memory/db_store.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0158adab735bfdd638f9b82d62636971e2e51b3a",
+      "size": 5932,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/0158adab735bfdd638f9b82d62636971e2e51b3a"
+    },
+    {
+      "path": "memory/models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a106324f5acd3dd32ce2e9846fd47c794e7a296",
+      "size": 1558,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/1a106324f5acd3dd32ce2e9846fd47c794e7a296"
+    },
+    {
+      "path": "memory/service.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9646edf4dade0aab4d0a0fe7ade6e5bbcfcf353e",
+      "size": 22720,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9646edf4dade0aab4d0a0fe7ade6e5bbcfcf353e"
+    },
+    {
+      "path": "observability",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "91ce3a16e0de96a80408a489a9b58c0e2db7c6ea",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/91ce3a16e0de96a80408a489a9b58c0e2db7c6ea"
+    },
+    {
+      "path": "observability/logging.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d8732853400c3e658b2b9f3d146f8978d5eaf37",
+      "size": 1466,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4d8732853400c3e658b2b9f3d146f8978d5eaf37"
+    },
+    {
+      "path": "observability/metrics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ca7fa0d7c0f56284c38456cf1f98dbd33b4aefc",
+      "size": 1437,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9ca7fa0d7c0f56284c38456cf1f98dbd33b4aefc"
+    },
+    {
+      "path": "ops",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8017cd75d74d4fee35b455c8047fb1ac42b74ee6",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/8017cd75d74d4fee35b455c8047fb1ac42b74ee6"
+    },
+    {
+      "path": "ops/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2104e3681a1476b32452e46ae8af2da605ff948",
+      "size": 4377,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c2104e3681a1476b32452e46ae8af2da605ff948"
+    },
+    {
+      "path": "orchestration",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a591bd1596f11d922e7f68b3ca0fd30cc272b443",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a591bd1596f11d922e7f68b3ca0fd30cc272b443"
+    },
+    {
+      "path": "orchestration/escalation_policy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5eb6ad3cc96ea5d5fbfa5f491011906fbb7ab02",
+      "size": 6197,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a5eb6ad3cc96ea5d5fbfa5f491011906fbb7ab02"
+    },
+    {
+      "path": "orchestration/execution.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8f214e765ba329d2a7be4f6b04f85c0f2ab154f",
+      "size": 26835,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a8f214e765ba329d2a7be4f6b04f85c0f2ab154f"
+    },
+    {
+      "path": "orchestration/graph.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a604afea766aa083abea6bcc9baaa4565435f1b",
+      "size": 3994,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2a604afea766aa083abea6bcc9baaa4565435f1b"
+    },
+    {
+      "path": "orchestration/hitl.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da08b6fc61b7f49fbabb8d00df6731e721c85b0a",
+      "size": 3908,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/da08b6fc61b7f49fbabb8d00df6731e721c85b0a"
+    },
+    {
+      "path": "orchestration/planner.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9652ff7e7a4db4c37e92af5acfa41e0fab1a5aa2",
+      "size": 10588,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9652ff7e7a4db4c37e92af5acfa41e0fab1a5aa2"
+    },
+    {
+      "path": "orchestration/plans.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18217cd48fb5fee917057f625ecbd2284bd25b4b",
+      "size": 1221,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/18217cd48fb5fee917057f625ecbd2284bd25b4b"
+    },
+    {
+      "path": "orchestration/rag_prefetch.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "622041daefb5c1c71c6521cbb96366dbdc67b058",
+      "size": 2399,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/622041daefb5c1c71c6521cbb96366dbdc67b058"
+    },
+    {
+      "path": "orchestration/routing.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34c050fc5a7eba2f66493c9f58eecd87ee9fc53c",
+      "size": 2723,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/34c050fc5a7eba2f66493c9f58eecd87ee9fc53c"
+    },
+    {
+      "path": "orchestration/state.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39c848c3ad0cef2713a5614cc7e0763a0c5e038c",
+      "size": 4619,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/39c848c3ad0cef2713a5614cc7e0763a0c5e038c"
+    },
+    {
+      "path": "orchestration/supervisor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f36c924663ce7a0e18d54fa25dc8ace2223b4f4",
+      "size": 11799,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5f36c924663ce7a0e18d54fa25dc8ace2223b4f4"
+    },
+    {
+      "path": "orchestration/verifier.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "844333f34952126ca54e6749db09c889f02e773a",
+      "size": 6634,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/844333f34952126ca54e6749db09c889f02e773a"
+    },
+    {
+      "path": "policy",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "82f1c5d03eef528ac9b13da8ccedaca1c5836af8",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/82f1c5d03eef528ac9b13da8ccedaca1c5836af8"
+    },
+    {
+      "path": "policy/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "157cb0a3f921539724cdd6da237de73f750a459d",
+      "size": 256,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/157cb0a3f921539724cdd6da237de73f750a459d"
+    },
+    {
+      "path": "policy/context.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df4afc8f4234e615314bab989d2425e4e21bb745",
+      "size": 2363,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/df4afc8f4234e615314bab989d2425e4e21bb745"
+    },
+    {
+      "path": "policy/decisions.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef5e0e27391c5ae5cf5b1bc3129ea1536cc24578",
+      "size": 1094,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ef5e0e27391c5ae5cf5b1bc3129ea1536cc24578"
+    },
+    {
+      "path": "policy/engine.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae1b427a525ce01006dbefad06cfb127d1d3e930",
+      "size": 1129,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ae1b427a525ce01006dbefad06cfb127d1d3e930"
+    },
+    {
+      "path": "policy/evaluator.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b45eaafdbc2f9dce761b49aacdab668ec6e768f",
+      "size": 8215,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7b45eaafdbc2f9dce761b49aacdab668ec6e768f"
+    },
+    {
+      "path": "policy/loader.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51e89f56d9687015e7985e594212e94268e46acc",
+      "size": 8507,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/51e89f56d9687015e7985e594212e94268e46acc"
+    },
+    {
+      "path": "policy/rules.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fcce6c5da140567e2a2df3fa9d6f90cef3303ff",
+      "size": 3068,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7fcce6c5da140567e2a2df3fa9d6f90cef3303ff"
+    },
+    {
+      "path": "prometheus.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b3e26d4edaaae63fda55a3242a5c29f3ef32a31",
+      "size": 223,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3b3e26d4edaaae63fda55a3242a5c29f3ef32a31"
+    },
+    {
+      "path": "pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b3ae5459f1b2c92441cc69787f8379ee55c7d4e",
+      "size": 940,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4b3ae5459f1b2c92441cc69787f8379ee55c7d4e"
+    },
+    {
+      "path": "rag",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "48f8a149411a6a29a0fc8855cf16f4b33ddfe413",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/48f8a149411a6a29a0fc8855cf16f4b33ddfe413"
+    },
+    {
+      "path": "rag/bm25_corpus.pkl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9d542554c8b78874a98159e7ae56df06a0f0497",
+      "size": 125199,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c9d542554c8b78874a98159e7ae56df06a0f0497"
+    },
+    {
+      "path": "rag/chunking.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffee773c882663d0a820503f8c68b193f5f5ea3a",
+      "size": 2853,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ffee773c882663d0a820503f8c68b193f5f5ea3a"
+    },
+    {
+      "path": "rag/citations.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44654adb68943769a73ef86b6786995447b7c367",
+      "size": 475,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/44654adb68943769a73ef86b6786995447b7c367"
+    },
+    {
+      "path": "rag/hybrid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fde689316118ae7be664d47f4c16f1830605141d",
+      "size": 2821,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/fde689316118ae7be664d47f4c16f1830605141d"
+    },
+    {
+      "path": "rag/ingest.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d34de0f334191a1cc873599aad359de08fa5ca8",
+      "size": 1544,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7d34de0f334191a1cc873599aad359de08fa5ca8"
+    },
+    {
+      "path": "rag/ingest_test.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f2154f5cce2fbe167aa460f691f2570cda6276c",
+      "size": 477,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4f2154f5cce2fbe167aa460f691f2570cda6276c"
+    },
+    {
+      "path": "rag/ingest_zepto_full.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90b73dae1e24b02786ae0ed4231a9441854f0572",
+      "size": 1330,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/90b73dae1e24b02786ae0ed4231a9441854f0572"
+    },
+    {
+      "path": "rag/ingestion.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a702a4192bb1b814659ed465ff3ec2443f59b90b",
+      "size": 4803,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a702a4192bb1b814659ed465ff3ec2443f59b90b"
+    },
+    {
+      "path": "rag/policy_cache.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ffdeaa8a153a701e49822d5c332fec44bfb5767",
+      "size": 1260,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5ffdeaa8a153a701e49822d5c332fec44bfb5767"
+    },
+    {
+      "path": "rag/reranker.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c012b34cd4709aebf1f1725f3188baea03767490",
+      "size": 2993,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c012b34cd4709aebf1f1725f3188baea03767490"
+    },
+    {
+      "path": "rag/retrieval.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58deab510ca75e2c5c755cf7bca611b6c522880d",
+      "size": 9879,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/58deab510ca75e2c5c755cf7bca611b6c522880d"
+    },
+    {
+      "path": "rag/setup_pinecone.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21487fd96ab2fc926b435748da7d8b02bb16f072",
+      "size": 560,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/21487fd96ab2fc926b435748da7d8b02bb16f072"
+    },
+    {
+      "path": "rag/tenant_filter.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b68425df46a3eafe2525e0c32dcc0085649054d",
+      "size": 1736,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/6b68425df46a3eafe2525e0c32dcc0085649054d"
+    },
+    {
+      "path": "render.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "829abbd766ce926be7463a2d4846b6c2b6629a65",
+      "size": 526,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/829abbd766ce926be7463a2d4846b6c2b6629a65"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5793f77907de0d16e998a4e11d904b614de38d53",
+      "size": 348,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5793f77907de0d16e998a4e11d904b614de38d53"
+    },
+    {
+      "path": "runtime",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e4fa73a9ee4ac2ced9c4d36957de25f534d6e1d2",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/e4fa73a9ee4ac2ced9c4d36957de25f534d6e1d2"
+    },
+    {
+      "path": "runtime/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4cd0d17f4156eb1632cf11e2a4a1f24c956de12",
+      "size": 376,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c4cd0d17f4156eb1632cf11e2a4a1f24c956de12"
+    },
+    {
+      "path": "runtime/context.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a86fd9913379ea2d7e4763058c24cecc2b86b80",
+      "size": 1899,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8a86fd9913379ea2d7e4763058c24cecc2b86b80"
+    },
+    {
+      "path": "runtime/events.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eece9c575dcf08fba4287f6038e8c35ce5d06c4d",
+      "size": 2027,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/eece9c575dcf08fba4287f6038e8c35ce5d06c4d"
+    },
+    {
+      "path": "runtime/models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85fb292f97aa97c13087afb0400c310da9ab7bb4",
+      "size": 5972,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/85fb292f97aa97c13087afb0400c310da9ab7bb4"
+    },
+    {
+      "path": "runtime/response.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59db442f0aa98ce5c617a561647f46f0fd73210d",
+      "size": 2502,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/59db442f0aa98ce5c617a561647f46f0fd73210d"
+    },
+    {
+      "path": "runtime/state.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b2192c7bbfcce09b8f4e701a77c1ac8b4590b6c",
+      "size": 1232,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/1b2192c7bbfcce09b8f4e701a77c1ac8b4590b6c"
+    },
+    {
+      "path": "runtime/support_runtime.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f63837a86d1dfe196605fdeb8f2cb1f0d563618",
+      "size": 22855,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9f63837a86d1dfe196605fdeb8f2cb1f0d563618"
+    },
+    {
+      "path": "security",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9d6f84db046494a283bdae197aa2cafe03b23d43",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/9d6f84db046494a283bdae197aa2cafe03b23d43"
+    },
+    {
+      "path": "security/guardrails.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c37bbd06f098e3881871ecd8e756bc907c13b93f",
+      "size": 2649,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c37bbd06f098e3881871ecd8e756bc907c13b93f"
+    },
+    {
+      "path": "security/output_guard.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f5a55df9695fd80cbafe02344fe4544e1c22f70",
+      "size": 3070,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4f5a55df9695fd80cbafe02344fe4544e1c22f70"
+    },
+    {
+      "path": "tenants",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6c4612443c4a2821998ad666e7607bbf7ca9ac0b",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/6c4612443c4a2821998ad666e7607bbf7ca9ac0b"
+    },
+    {
+      "path": "tenants/_template",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f3c57217239d41b6311321a7d0bf19def82644f3",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f3c57217239d41b6311321a7d0bf19def82644f3"
+    },
+    {
+      "path": "tenants/_template/tenant.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "397e8d17f07088186b5cb34089f2ff76e6aa5c70",
+      "size": 737,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/397e8d17f07088186b5cb34089f2ff76e6aa5c70"
+    },
+    {
+      "path": "tenants/otherbrand",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "90129678b080b6bbc3925f44b835bbcd9fb9cf6f",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/90129678b080b6bbc3925f44b835bbcd9fb9cf6f"
+    },
+    {
+      "path": "tenants/otherbrand/identity_fixture.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c555d1b874661322c233e976d2fd7f81214e0d8e",
+      "size": 109,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c555d1b874661322c233e976d2fd7f81214e0d8e"
+    },
+    {
+      "path": "tenants/otherbrand/knowledge",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f599a4120ca29ce828a06dab6e4903ca4b92fcc8",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/f599a4120ca29ce828a06dab6e4903ca4b92fcc8"
+    },
+    {
+      "path": "tenants/otherbrand/knowledge/otherbrand-terms.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02369ddff67818f4fbff1a080b745eb9a12a403b",
+      "size": 620,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/02369ddff67818f4fbff1a080b745eb9a12a403b"
+    },
+    {
+      "path": "tenants/otherbrand/tenant.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ca0aa9655d2ff414c4cef87c758e20bd384ce74",
+      "size": 268,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7ca0aa9655d2ff414c4cef87c758e20bd384ce74"
+    },
+    {
+      "path": "tenants/zepto",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "81c2b402e2eaf274d9b61eb42caf7f3b688e87a3",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/81c2b402e2eaf274d9b61eb42caf7f3b688e87a3"
+    },
+    {
+      "path": "tenants/zepto/identity_fixture.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e8af63b48940d495d888d1846d462851f4f11ce",
+      "size": 173,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7e8af63b48940d495d888d1846d462851f4f11ce"
+    },
+    {
+      "path": "tenants/zepto/knowledge",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fc298252fbab4dfc6435558ea3f2229d0890f6ba",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/fc298252fbab4dfc6435558ea3f2229d0890f6ba"
+    },
+    {
+      "path": "tenants/zepto/knowledge/Zepto Terms of Use.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ece17376dfd66340e5ad9738fb58a2188af27401",
+      "size": 426637,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ece17376dfd66340e5ad9738fb58a2188af27401"
+    },
+    {
+      "path": "tenants/zepto/policies",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d9ba80c985f935ac3a230db10e8add956162ca10",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/d9ba80c985f935ac3a230db10e8add956162ca10"
+    },
+    {
+      "path": "tenants/zepto/policies/cancel.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b95b36f8c35b09664ae38972c0db12595d0eb4ff",
+      "size": 252,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b95b36f8c35b09664ae38972c0db12595d0eb4ff"
+    },
+    {
+      "path": "tenants/zepto/policies/escalation.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e1b04b0089855974691eae889a61d1a0055e383",
+      "size": 218,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4e1b04b0089855974691eae889a61d1a0055e383"
+    },
+    {
+      "path": "tenants/zepto/policies/refund.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4db1c9de6b4701919079e38567563f79c747e18b",
+      "size": 386,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4db1c9de6b4701919079e38567563f79c747e18b"
+    },
+    {
+      "path": "tenants/zepto/policies/replacement.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3492f8e2efea47390fa0d67a9d01562c0883f766",
+      "size": 211,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3492f8e2efea47390fa0d67a9d01562c0883f766"
+    },
+    {
+      "path": "tenants/zepto/policies/return.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66c9a51ed6f8a3da203a6897055cbfc7fc1265f9",
+      "size": 224,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/66c9a51ed6f8a3da203a6897055cbfc7fc1265f9"
+    },
+    {
+      "path": "tenants/zepto/tenant.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cc60ff15d33974e2be4cd26e25eb6c3ce8fbc21",
+      "size": 1018,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2cc60ff15d33974e2be4cd26e25eb6c3ce8fbc21"
+    },
+    {
+      "path": "tenants/zepto/tools.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d821f8ffc54742bbe4d6f5a697f6465d05e0fccd",
+      "size": 227,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d821f8ffc54742bbe4d6f5a697f6465d05e0fccd"
+    },
+    {
+      "path": "test_retrieval.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "409629397cb45adf842155681be6b96731cdbfa2",
+      "size": 827,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/409629397cb45adf842155681be6b96731cdbfa2"
+    },
+    {
+      "path": "tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d496ab9832ff599de37f802ec794b2ea8380bd48",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/d496ab9832ff599de37f802ec794b2ea8380bd48"
+    },
+    {
+      "path": "tests/api",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bd0983b04984cac7f2e4e5d4638c5a97de34273b",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/bd0983b04984cac7f2e4e5d4638c5a97de34273b"
+    },
+    {
+      "path": "tests/api/test_approval_resume.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7605d269ab2fd001391dd2ee95b3ef7dca8012a4",
+      "size": 8038,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7605d269ab2fd001391dd2ee95b3ef7dca8012a4"
+    },
+    {
+      "path": "tests/api/test_control_plane.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16b1d7cce248d2d2ef413aaa90b467e30384e963",
+      "size": 10518,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/16b1d7cce248d2d2ef413aaa90b467e30384e963"
+    },
+    {
+      "path": "tests/api/test_copilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1115f9a96f09d99d190b4c915481fedd0f3571a3",
+      "size": 3445,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/1115f9a96f09d99d190b4c915481fedd0f3571a3"
+    },
+    {
+      "path": "tests/api/test_health_boot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac3e0e94c3589ac3605506769799f57044f69ea1",
+      "size": 676,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ac3e0e94c3589ac3605506769799f57044f69ea1"
+    },
+    {
+      "path": "tests/api/test_intelligence.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebb407bbb247cd547f4762c12252d4f7c87a5cbc",
+      "size": 9497,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ebb407bbb247cd547f4762c12252d4f7c87a5cbc"
+    },
+    {
+      "path": "tests/api/test_owner_signup.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd210198edce76a39ef7799fc51a3932b62cb401",
+      "size": 3242,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/cd210198edce76a39ef7799fc51a3932b62cb401"
+    },
+    {
+      "path": "tests/evaluation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8bb58c0db0644d1baccf1bffa3ff712a50b6cc99",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/8bb58c0db0644d1baccf1bffa3ff712a50b6cc99"
+    },
+    {
+      "path": "tests/evaluation/test_autoqa.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d11e4954bcaad3b3bc9c46ef936a1728b8f70daa",
+      "size": 1264,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d11e4954bcaad3b3bc9c46ef936a1728b8f70daa"
+    },
+    {
+      "path": "tests/evaluation/test_rag_metrics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c1de0e46e391bc4c9a80c82b5b6f166efb1f3bb",
+      "size": 1779,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/0c1de0e46e391bc4c9a80c82b5b6f166efb1f3bb"
+    },
+    {
+      "path": "tests/evaluation/test_release_gate_scenarios.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4efacce4f8ba072fdcfffe5038898a9a051eae4f",
+      "size": 1496,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4efacce4f8ba072fdcfffe5038898a9a051eae4f"
+    },
+    {
+      "path": "tests/identity",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7fa9f8c88bcfea1314e976104660a6522bb54fa1",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/7fa9f8c88bcfea1314e976104660a6522bb54fa1"
+    },
+    {
+      "path": "tests/identity/test_no_client_verified.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08841a8ad301d624f32831f0dd5a06c97c413854",
+      "size": 4606,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/08841a8ad301d624f32831f0dd5a06c97c413854"
+    },
+    {
+      "path": "tests/orchestration",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bc7b1aa95b66913bab8a368dc72faf5cb422ba6a",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/bc7b1aa95b66913bab8a368dc72faf5cb422ba6a"
+    },
+    {
+      "path": "tests/orchestration/test_p0d_wire.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a78f52808bc03afe84d9c34da106b2b1c89617b1",
+      "size": 12854,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a78f52808bc03afe84d9c34da106b2b1c89617b1"
+    },
+    {
+      "path": "tests/pilot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "73011139e27c8077d2592cfa71349ca1d0564310",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/73011139e27c8077d2592cfa71349ca1d0564310"
+    },
+    {
+      "path": "tests/pilot/test_pilot_flows.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b17b0bbdbb360eeddb4e131b191ab91f02671bdc",
+      "size": 11235,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b17b0bbdbb360eeddb4e131b191ab91f02671bdc"
+    },
+    {
+      "path": "tests/platform",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bdc63472674727c0c862178b697c5b7e12b6950a",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/bdc63472674727c0c862178b697c5b7e12b6950a"
+    },
+    {
+      "path": "tests/platform/test_case_reuse.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68341f0da554755aafcd518e57b40d378db3e564",
+      "size": 5175,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/68341f0da554755aafcd518e57b40d378db3e564"
+    },
+    {
+      "path": "tests/platform/test_db_tables.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f51acf8c9b02ae24793ff14646c759f3014cd90",
+      "size": 693,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2f51acf8c9b02ae24793ff14646c759f3014cd90"
+    },
+    {
+      "path": "tests/platform/test_pilot_migration.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ec452fe8d6a2fc3cda6f0826cb792b03af24c17",
+      "size": 487,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5ec452fe8d6a2fc3cda6f0826cb792b03af24c17"
+    },
+    {
+      "path": "tests/platform/test_tenant_loader.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56155a8783488317324c0c519a91d2851f3f67ea",
+      "size": 2117,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/56155a8783488317324c0c519a91d2851f3f67ea"
+    },
+    {
+      "path": "tests/policy",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bf896d7fd84b78aaead3136ed3956538cfc2bcb3",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/bf896d7fd84b78aaead3136ed3956538cfc2bcb3"
+    },
+    {
+      "path": "tests/policy/test_auth_and_loader.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a643df95a57c48ce08828f0952a266fb5142ced",
+      "size": 4616,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4a643df95a57c48ce08828f0952a266fb5142ced"
+    },
+    {
+      "path": "tests/policy/test_refund_policy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a4d0828216a0b68565669efbae9679f67a8582e",
+      "size": 4480,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7a4d0828216a0b68565669efbae9679f67a8582e"
+    },
+    {
+      "path": "tests/policy/test_return_policy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "147d61ff52c9d79f0e2f375f498f9404f981bb8e",
+      "size": 4075,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/147d61ff52c9d79f0e2f375f498f9404f981bb8e"
+    },
+    {
+      "path": "tests/rag",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bb2d72c49f28030bf61f0fe7d5f2fca391dd5dd7",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/bb2d72c49f28030bf61f0fe7d5f2fca391dd5dd7"
+    },
+    {
+      "path": "tests/rag/test_namespace_isolation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6703e26d6cbd85fd86146b4f5358bfeb1ecbee2b",
+      "size": 1025,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/6703e26d6cbd85fd86146b4f5358bfeb1ecbee2b"
+    },
+    {
+      "path": "tests/rag/test_tenant_isolation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1579946c6410aee25ca379fa039e3b061736e645",
+      "size": 1768,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/1579946c6410aee25ca379fa039e3b061736e645"
+    },
+    {
+      "path": "tests/tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0a9dad46a113271e4de18069d25d4e711d9ef3a6",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/0a9dad46a113271e4de18069d25d4e711d9ef3a6"
+    },
+    {
+      "path": "tests/tools/test_mock_clients.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf218d0c4f656f987357e764d98de1ed9da621fa",
+      "size": 1407,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/cf218d0c4f656f987357e764d98de1ed9da621fa"
+    },
+    {
+      "path": "tests/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a2e43729f2516f29904913f3af7bff16dba07729",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/a2e43729f2516f29904913f3af7bff16dba07729"
+    },
+    {
+      "path": "tests/workflows/conftest.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8eacbd7fd6750e42176a537869ed014ea9382316",
+      "size": 4193,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8eacbd7fd6750e42176a537869ed014ea9382316"
+    },
+    {
+      "path": "tests/workflows/test_approval_override.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6e2b5b164f7d08bf3095a9d2f85169002c09abe",
+      "size": 4859,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/b6e2b5b164f7d08bf3095a9d2f85169002c09abe"
+    },
+    {
+      "path": "tests/workflows/test_other_workflows.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d78fd432c0bea434880f4dc2c484dcc1beabcf19",
+      "size": 1915,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d78fd432c0bea434880f4dc2c484dcc1beabcf19"
+    },
+    {
+      "path": "tests/workflows/test_refund_gates.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64c6a4189bbe1861cbbfe8cc7da2943a2482598e",
+      "size": 3008,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/64c6a4189bbe1861cbbfe8cc7da2943a2482598e"
+    },
+    {
+      "path": "tests/workflows/test_refund_happy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8df9e55dd5bc1609257d89b63219516b197291fa",
+      "size": 1556,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8df9e55dd5bc1609257d89b63219516b197291fa"
+    },
+    {
+      "path": "tests/workflows/test_resume_and_retry.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27f403544515ccf1d22298bbcd37c2a2145741af",
+      "size": 4754,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/27f403544515ccf1d22298bbcd37c2a2145741af"
+    },
+    {
+      "path": "tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "53620c7ff94edefac0600b8761960587d33d8a73",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/53620c7ff94edefac0600b8761960587d33d8a73"
+    },
+    {
+      "path": "tools/audit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15cb83e78e3bf8dff6e0789cb15eee43685583aa",
+      "size": 3933,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/15cb83e78e3bf8dff6e0789cb15eee43685583aa"
+    },
+    {
+      "path": "tools/base",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "117e2b80f840efc6757cd0812d2dc8dd9a9665eb",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/117e2b80f840efc6757cd0812d2dc8dd9a9665eb"
+    },
+    {
+      "path": "tools/base/auth.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "026635683e891195b5bd648588c70ebea851b9fa",
+      "size": 1213,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/026635683e891195b5bd648588c70ebea851b9fa"
+    },
+    {
+      "path": "tools/base/context.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2d20902b7f3a9905db99f8a8d02914fb3c69a3d",
+      "size": 312,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c2d20902b7f3a9905db99f8a8d02914fb3c69a3d"
+    },
+    {
+      "path": "tools/base/exceptions.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4895f57d9b68a9c30b73a613b7e851aaebc3723e",
+      "size": 1565,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4895f57d9b68a9c30b73a613b7e851aaebc3723e"
+    },
+    {
+      "path": "tools/base/http.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf6fcfcb19d95b6609bf0cb744d8742a8b5cc7b2",
+      "size": 2274,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/cf6fcfcb19d95b6609bf0cb744d8742a8b5cc7b2"
+    },
+    {
+      "path": "tools/base/metrics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f1067c2fec2163fc95ce85b5aec1175e97b475b",
+      "size": 786,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/6f1067c2fec2163fc95ce85b5aec1175e97b475b"
+    },
+    {
+      "path": "tools/base/rate_limit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4671b6aa8a5de820bbffb3a546d47f5814d12d41",
+      "size": 881,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4671b6aa8a5de820bbffb3a546d47f5814d12d41"
+    },
+    {
+      "path": "tools/base/response.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ebe11022c6e20758522a7b82c84fdfc0c3ed7cc",
+      "size": 1732,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8ebe11022c6e20758522a7b82c84fdfc0c3ed7cc"
+    },
+    {
+      "path": "tools/base/retry.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4a8128769d750f64e9846da3e357201ca0bda9d",
+      "size": 998,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d4a8128769d750f64e9846da3e357201ca0bda9d"
+    },
+    {
+      "path": "tools/base/timeout.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "tools/base/tool.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64f3af1ecc18bef2f1e26acf1f112fe48b6b8119",
+      "size": 5318,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/64f3af1ecc18bef2f1e26acf1f112fe48b6b8119"
+    },
+    {
+      "path": "tools/base/validator.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb2f21e0bf74b0c3c0b8fca0afb97d9c63338860",
+      "size": 387,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/bb2f21e0bf74b0c3c0b8fca0afb97d9c63338860"
+    },
+    {
+      "path": "tools/bootstrap.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60aae1378cd6ddc99751444afe86dbd73f9f47e3",
+      "size": 825,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/60aae1378cd6ddc99751444afe86dbd73f9f47e3"
+    },
+    {
+      "path": "tools/gmail",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fb2e55185f5a490323d4be26437e013bdd4713eb",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/fb2e55185f5a490323d4be26437e013bdd4713eb"
+    },
+    {
+      "path": "tools/gmail/auth.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35758ba1c47b086c1c4a8ad086ed94bfd19088ed",
+      "size": 2514,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/35758ba1c47b086c1c4a8ad086ed94bfd19088ed"
+    },
+    {
+      "path": "tools/gmail/client.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05a95fd6be20d6c2211e3c1819d8057e91815329",
+      "size": 1083,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/05a95fd6be20d6c2211e3c1819d8057e91815329"
+    },
+    {
+      "path": "tools/gmail/escalation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "882e69f8e6e32dab2eb77d3e560bf93c02722a93",
+      "size": 1674,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/882e69f8e6e32dab2eb77d3e560bf93c02722a93"
+    },
+    {
+      "path": "tools/gmail/send.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d976396d7e942558b638ea47593ad04bfcc99887",
+      "size": 4664,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d976396d7e942558b638ea47593ad04bfcc99887"
+    },
+    {
+      "path": "tools/health.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "252cc10c1cc1609f8c0af17f414ceda5e92e306e",
+      "size": 847,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/252cc10c1cc1609f8c0af17f414ceda5e92e306e"
+    },
+    {
+      "path": "tools/registry.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb986b8a028b0fff724f4f9971fef927ee74eb52",
+      "size": 447,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/cb986b8a028b0fff724f4f9971fef927ee74eb52"
+    },
+    {
+      "path": "tools/shopify",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ae9ed4f878f672dec0fe43779df72f7a3cb6cfcd",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/ae9ed4f878f672dec0fe43779df72f7a3cb6cfcd"
+    },
+    {
+      "path": "tools/shopify/auth.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac22c2af9d80c30d4c031391c40d6589c215c86b",
+      "size": 1212,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ac22c2af9d80c30d4c031391c40d6589c215c86b"
+    },
+    {
+      "path": "tools/shopify/client.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47a5bf2eeff5a2d69a9d27bfbe21ae10af8afc75",
+      "size": 1813,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/47a5bf2eeff5a2d69a9d27bfbe21ae10af8afc75"
+    },
+    {
+      "path": "tools/shopify/identify.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b30421827fef4714a8db9b177aee1458ee89da0",
+      "size": 4349,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/6b30421827fef4714a8db9b177aee1458ee89da0"
+    },
+    {
+      "path": "tools/shopify/orders.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19d8bb56e706a9cffa46fd3318d49856829ea77d",
+      "size": 6101,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/19d8bb56e706a9cffa46fd3318d49856829ea77d"
+    },
+    {
+      "path": "tools/shopify/returns.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "tools/stripe",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "10d4644250ba14de61112457e88f3211298f146e",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/10d4644250ba14de61112457e88f3211298f146e"
+    },
+    {
+      "path": "tools/stripe/auth.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a911466bff2412d3727d7b4159efa603a8b800ac",
+      "size": 523,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a911466bff2412d3727d7b4159efa603a8b800ac"
+    },
+    {
+      "path": "tools/stripe/client.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "881635cb580b935dbccddc47bd88035941871d14",
+      "size": 1810,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/881635cb580b935dbccddc47bd88035941871d14"
+    },
+    {
+      "path": "tools/stripe/payments.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce7f42291e29baff8c6370e86b2787d6d49b59c9",
+      "size": 1567,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ce7f42291e29baff8c6370e86b2787d6d49b59c9"
+    },
+    {
+      "path": "tools/stripe/refunds.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0129fca13497d795b0db39434ea857d9e28a7dce",
+      "size": 8083,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/0129fca13497d795b0db39434ea857d9e28a7dce"
+    },
+    {
+      "path": "uv.lock",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd0ab81f88c814a670f617bfc3ab34d669eaebe7",
+      "size": 804695,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/fd0ab81f88c814a670f617bfc3ab34d669eaebe7"
+    },
+    {
+      "path": "voice",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e7cec78be0a41c8ba2b44a378081420aaf02adce",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/e7cec78be0a41c8ba2b44a378081420aaf02adce"
+    },
+    {
+      "path": "voice/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "883704301b44c01f730f3a49f9b10789bb20ec91",
+      "size": 6770,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/883704301b44c01f730f3a49f9b10789bb20ec91"
+    },
+    {
+      "path": "voice/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98fe590b04def308bd600a3857f012ae88c28f80",
+      "size": 735,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/98fe590b04def308bd600a3857f012ae88c28f80"
+    },
+    {
+      "path": "voice/adapter.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e58ad5a71c17cac73795fc49a07ec65abdb7367a",
+      "size": 19400,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e58ad5a71c17cac73795fc49a07ec65abdb7367a"
+    },
+    {
+      "path": "voice/bot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f935b000b931b2d89e0a754738986532a1da0e05",
+      "size": 3239,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f935b000b931b2d89e0a754738986532a1da0e05"
+    },
+    {
+      "path": "voice/cli_test.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3138d5b125ffe7a965f3919cc5cee57d4873d587",
+      "size": 9696,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/3138d5b125ffe7a965f3919cc5cee57d4873d587"
+    },
+    {
+      "path": "voice/config.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dec5137ed0170760da9b7d8bc678f15317dbb3c7",
+      "size": 3954,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/dec5137ed0170760da9b7d8bc678f15317dbb3c7"
+    },
+    {
+      "path": "voice/context.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ef9adc3a798e247b03177f3b32b7cc689cba21d",
+      "size": 7425,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/9ef9adc3a798e247b03177f3b32b7cc689cba21d"
+    },
+    {
+      "path": "voice/events.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4a12b8c175ee244a9826a4344f6a1e1dfe30b5b",
+      "size": 1951,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/c4a12b8c175ee244a9826a4344f6a1e1dfe30b5b"
+    },
+    {
+      "path": "voice/observability.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9e6088775a373ead0f032f2ea6d9075de721289",
+      "size": 6557,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a9e6088775a373ead0f032f2ea6d9075de721289"
+    },
+    {
+      "path": "voice/pipeline.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b2b6d0d6d285a5a7d15acf2a72175708c0528a7",
+      "size": 3887,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/8b2b6d0d6d285a5a7d15acf2a72175708c0528a7"
+    },
+    {
+      "path": "voice/processors",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b20e0ab1e15d734455c6c809dfb0f261185294ae",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/b20e0ab1e15d734455c6c809dfb0f261185294ae"
+    },
+    {
+      "path": "voice/processors/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5047908ab3ba7c214efe930da21fa1945143611d",
+      "size": 20,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/5047908ab3ba7c214efe930da21fa1945143611d"
+    },
+    {
+      "path": "voice/processors/audio_debug.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "092629b54f18e4ca8b515b9fe6cd9366702737ee",
+      "size": 2010,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/092629b54f18e4ca8b515b9fe6cd9366702737ee"
+    },
+    {
+      "path": "voice/processors/response.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80ed6addeb5354dd98914b570ccf24c123e40e5a",
+      "size": 2968,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/80ed6addeb5354dd98914b570ccf24c123e40e5a"
+    },
+    {
+      "path": "voice/processors/runtime_responder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d542b4ad45884644ac2f911da12b5beca2e836db",
+      "size": 10614,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d542b4ad45884644ac2f911da12b5beca2e836db"
+    },
+    {
+      "path": "voice/processors/stt_debug.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e61e872d5ba37b9febc20038a00cc687dd0867b8",
+      "size": 1892,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e61e872d5ba37b9febc20038a00cc687dd0867b8"
+    },
+    {
+      "path": "voice/processors/stt_probe.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f843375ceb48aedd9c8abe4586cd2ab40e3b7e7b",
+      "size": 2185,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/f843375ceb48aedd9c8abe4586cd2ab40e3b7e7b"
+    },
+    {
+      "path": "voice/processors/thinking_utterance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bba59fb6b0c74b050e987ad90beddf82224e2cba",
+      "size": 3248,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/bba59fb6b0c74b050e987ad90beddf82224e2cba"
+    },
+    {
+      "path": "voice/processors/transcript.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95dc7df2dcaa8e2cf9a9e24c609264c581fafded",
+      "size": 2087,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/95dc7df2dcaa8e2cf9a9e24c609264c581fafded"
+    },
+    {
+      "path": "voice/server.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad6231d254a8ae58a00e51b29b9759d53f77d26f",
+      "size": 10584,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ad6231d254a8ae58a00e51b29b9759d53f77d26f"
+    },
+    {
+      "path": "voice/stt",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2940e91127959cbaabe371b49c3b19dae2c94465",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/2940e91127959cbaabe371b49c3b19dae2c94465"
+    },
+    {
+      "path": "voice/stt/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdcb51e7c9b8e47314141cd5bf9ba17a81a104a5",
+      "size": 46,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/cdcb51e7c9b8e47314141cd5bf9ba17a81a104a5"
+    },
+    {
+      "path": "voice/stt/provider.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bef1e614b5270bdf3f0600af6ab9079dcfd2fb1c",
+      "size": 2001,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/bef1e614b5270bdf3f0600af6ab9079dcfd2fb1c"
+    },
+    {
+      "path": "voice/tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ca6beeb21032a362dcbb7bfb21e5b44d1d403e90",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/ca6beeb21032a362dcbb7bfb21e5b44d1d403e90"
+    },
+    {
+      "path": "voice/tests/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "746492f0b37140a92382609b71b6291949bc1955",
+      "size": 48,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/746492f0b37140a92382609b71b6291949bc1955"
+    },
+    {
+      "path": "voice/tests/test_adapter.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf8c82150756a6a631cb52e945840cf64d44526f",
+      "size": 9168,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/bf8c82150756a6a631cb52e945840cf64d44526f"
+    },
+    {
+      "path": "voice/tests/test_conversational_brain.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1aa55acc7b70dc80cf4efe1bc3e7b9d66891277",
+      "size": 3868,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/e1aa55acc7b70dc80cf4efe1bc3e7b9d66891277"
+    },
+    {
+      "path": "voice/tests/test_end_to_end.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cadd32dfca8354d705ae3446617a07e9d2d7b3f4",
+      "size": 10389,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/cadd32dfca8354d705ae3446617a07e9d2d7b3f4"
+    },
+    {
+      "path": "voice/tests/test_golden_suite.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05c6234be99b7cb82b777b283f714e52453dce17",
+      "size": 17132,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/05c6234be99b7cb82b777b283f714e52453dce17"
+    },
+    {
+      "path": "voice/tests/test_phase3_agentic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52df30c328614947d5c62a8daaddde8902ad1912",
+      "size": 31198,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/52df30c328614947d5c62a8daaddde8902ad1912"
+    },
+    {
+      "path": "voice/tests/test_pipeline.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "870edb9c4c3656627b417c9000e55b52162c94b5",
+      "size": 11923,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/870edb9c4c3656627b417c9000e55b52162c94b5"
+    },
+    {
+      "path": "voice/tests/test_policy_vs_action_suite.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d823360a03dee1cb6df758e65e2ff5b7d0164b20",
+      "size": 8941,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/d823360a03dee1cb6df758e65e2ff5b7d0164b20"
+    },
+    {
+      "path": "voice/tests/test_voice_session.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87b9b3a7da1b944930794e84c5435d89747a66e0",
+      "size": 5267,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/87b9b3a7da1b944930794e84c5435d89747a66e0"
+    },
+    {
+      "path": "voice/tts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1bd0556e83d5778281f083c3c3c1d58202d53546",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/1bd0556e83d5778281f083c3c3c1d58202d53546"
+    },
+    {
+      "path": "voice/tts/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28433739e9ee27dbf7b39c98bb91b5f0eb975e97",
+      "size": 46,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/28433739e9ee27dbf7b39c98bb91b5f0eb975e97"
+    },
+    {
+      "path": "voice/tts/provider.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48197f171d388151f59d818866a089409f298842",
+      "size": 2134,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/48197f171d388151f59d818866a089409f298842"
+    },
+    {
+      "path": "voice/turn_trace.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89037714a6c44d5e2ffd06bf7e328ba136dcb2c9",
+      "size": 6726,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/89037714a6c44d5e2ffd06bf7e328ba136dcb2c9"
+    },
+    {
+      "path": "voice/verify_golden.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6234593bc085f6acb6f332c06bf9a0cdedcbc83e",
+      "size": 10152,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/6234593bc085f6acb6f332c06bf9a0cdedcbc83e"
+    },
+    {
+      "path": "workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d3218d2ee356df77c3db927c19fe563676eb6775",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/d3218d2ee356df77c3db927c19fe563676eb6775"
+    },
+    {
+      "path": "workflows/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccf21e1fec803c6b69caa846bc41cd3bbb61649c",
+      "size": 215,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ccf21e1fec803c6b69caa846bc41cd3bbb61649c"
+    },
+    {
+      "path": "workflows/approvals.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4eb0c07783b74277c723e91802e294e822058be8",
+      "size": 8842,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/4eb0c07783b74277c723e91802e294e822058be8"
+    },
+    {
+      "path": "workflows/context.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be0a29c5b15421c00522dfd6004000ae03e5a21a",
+      "size": 1980,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/be0a29c5b15421c00522dfd6004000ae03e5a21a"
+    },
+    {
+      "path": "workflows/definitions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "83d1f994c483c2419f687ed77a1b5da4d11e6f36",
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/trees/83d1f994c483c2419f687ed77a1b5da4d11e6f36"
+    },
+    {
+      "path": "workflows/definitions/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "910ab41fe774554c395f5977f41461085a28cee6",
+      "size": 65,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/910ab41fe774554c395f5977f41461085a28cee6"
+    },
+    {
+      "path": "workflows/definitions/cancel.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b35d7d047c59ba86f76290490592cd3cdd230e5",
+      "size": 951,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2b35d7d047c59ba86f76290490592cd3cdd230e5"
+    },
+    {
+      "path": "workflows/definitions/common.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f3949b8fc40c852b70b25e083db4d6c3c555fe1",
+      "size": 14065,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/7f3949b8fc40c852b70b25e083db4d6c3c555fe1"
+    },
+    {
+      "path": "workflows/definitions/order_status.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43d4a7eec0e3ced23846c7b390311a69f3e11811",
+      "size": 421,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/43d4a7eec0e3ced23846c7b390311a69f3e11811"
+    },
+    {
+      "path": "workflows/definitions/refund.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a669a0926816503d8aa513712875dc31f89271d9",
+      "size": 993,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a669a0926816503d8aa513712875dc31f89271d9"
+    },
+    {
+      "path": "workflows/definitions/return_damaged.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c5563307d509188983aabaf0d3da5dd91760e49",
+      "size": 1102,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/6c5563307d509188983aabaf0d3da5dd91760e49"
+    },
+    {
+      "path": "workflows/engine.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7110ef7a4710e177ec88e970601a77ab80c2d53",
+      "size": 18349,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/a7110ef7a4710e177ec88e970601a77ab80c2d53"
+    },
+    {
+      "path": "workflows/idempotency.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2aa7d6933888fd551571ea7e364611b3bb197c78",
+      "size": 1241,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/2aa7d6933888fd551571ea7e364611b3bb197c78"
+    },
+    {
+      "path": "workflows/registry.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca896db88a73c8096391bcd58d54ebe9ea575f4f",
+      "size": 825,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/ca896db88a73c8096391bcd58d54ebe9ea575f4f"
+    },
+    {
+      "path": "workflows/retry.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13a574411ab5746aa2f59cfb74e0948a66fdd684",
+      "size": 527,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/13a574411ab5746aa2f59cfb74e0948a66fdd684"
+    },
+    {
+      "path": "workflows/state.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a8c8e78471c885e31fab06e8daedd515d05833a",
+      "size": 2562,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/6a8c8e78471c885e31fab06e8daedd515d05833a"
+    },
+    {
+      "path": "workflows/tools.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58187f554e8ecf73134075e35be7737ab3273aad",
+      "size": 3831,
+      "url": "https://api.github.com/repos/venkatpachala/AI-Customer-Support-/git/blobs/58187f554e8ecf73134075e35be7737ab3273aad"
+    }
+  ],
+  "truncated": false
+}

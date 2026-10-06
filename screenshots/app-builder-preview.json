@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kivo — AI Customer Operations Infrastructure",
+      "hasCanvas": false,
+      "bodyTextLen": 6375,
+      "bodyTextHash": "0173d7e35ebf7cebc00889d9e5e503dea230051fff9cde1023fdd2fe35a00b0a",
+      "bodyTextPrefix": "KIVO Product Platform Solutions Developers Pricing Docs Sign in ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kivo — AI Customer Operations Infrastructure",
+      "hasCanvas": false,
+      "bodyTextLen": 6301,
+      "bodyTextHash": "9c1f8b5b670637e083b0d4fbb7246db923f74544ba6fdca2c51996cb93e8fc67",
+      "bodyTextPrefix": "KIVO AI OPERATIONS FOR COMMERCE Your customer operations, now au",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
